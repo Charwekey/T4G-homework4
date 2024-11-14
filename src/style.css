@@ -175,7 +175,18 @@ color: rgb(123, 123, 176);
                       /* Form ends */
 
 
+   /* copyright Starts */
+    .copyright{
+      background-color: rgb(180, 180, 237);
+      color: black;
+      padding: 4px;
+      margin-top: -10px;
 
+    }
+    .copyright p{
+             text-align: center;
+             font-weight: 500;
+    }
 
 
 
